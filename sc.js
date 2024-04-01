@@ -19,7 +19,7 @@ function receipt() {
             info: '1 kg',
             price: 7000
         }
-    }, {
+    }, { //create by Zimver
         'Cola': {
             info: '1 L',
             price: 6500
